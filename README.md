@@ -26,17 +26,17 @@ Los resultados muestran que B&B es adecuado para instancias pequeñas y medianas
 │   ├── p03/
 │   ├── p04/
 │   └── p05/
-├── simulated_annealing/
+├── Recocido_simulado/
 │   ├── mknap1/
 │   ├── p03/
 │   ├── p04/
 │   └── p05/
-├── instances/
+├── instancias/
 │   ├── mknap1.dat
 │   ├── p03.dat
 │   ├── p04.dat
 │   └── p05.dat
-├── results/
+├── resultados/
 │   ├── tables/
 │   └── figures/
 └── README.md
