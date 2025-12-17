@@ -61,7 +61,7 @@ Se consideran cuatro instancias clásicas:
 
 Las instancias P03, P04 y P05 provienen del repositorio público mantenido por **John Burkardt**, ampliamente utilizado en la literatura de optimización.
 
-## 🧪 Metodología experimental
+##  Metodología experimental
 
 * **Branch and Bound** se utiliza como método exacto para obtener soluciones óptimas.
 * **Recocido Simulado** se ejecuta con **30 corridas independientes por instancia**.
