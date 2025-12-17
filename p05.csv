@@ -1,0 +1,12 @@
+# p05_dataset_completo.csv,,,
+# Capacidades de las mochilas,,,
+Capacidad,M1,M2,
+65,85,,
+# Datos de los objetos,,,
+Objeto,M1,M2,Beneficio
+1,40,110,40
+2,60,150,60
+3,30,70,30
+4,40,80,40
+5,20,30,20
+6,5,5,5
