@@ -139,3 +139,4 @@ for j in range(m):
     objs = [i + 1 for i in range(n) if asign[i] == j]
     peso = sum(pesos[i][j] for i in range(n) if asign[i] == j)
     print(f"Mochila {j+1}: objetos {objs}, peso usado {peso}/{capacidades[j]}")
+
