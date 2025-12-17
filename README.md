@@ -37,8 +37,10 @@ Los resultados muestran que B&B es adecuado para instancias pequeñas y medianas
 │   ├── p04.dat
 │   └── p05.dat
 ├── resultados/
-│   ├── tables/
-│   └── figures/
+│   ├── mknap1/
+│   ├── p03/
+│   ├── p04/
+│   └── p05/
 └── README.md
 ```
 
